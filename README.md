@@ -1,6 +1,11 @@
 SeifPace 
 同频打卡，让时间管理更有节奏
 # 项目简介
+SeifPace (Rhythmic Check-in) is a full-stack project for personal time management and habit formation. Designed to help you build a more rhythmic life and learning routine through a check-in mechanism, it helps you bid farewell to procrastination and grow alongside like-minded peers.
+The backend is built on Java + Spring Boot, ensuring stability and reliability.
+It supports WebSocket real-time message push for more timely check-in feedback.
+Maven is adopted for dependency management, facilitating scalability and maintenance.
+Note: This project is still in iteration with some areas pending optimization. Suggestions and improvement directions from all experts are welcome, and I will strive to refine it continuously.
 SeifPace（同频打卡）是一个面向个人时间管理与习惯养成的全栈项目，旨在通过打卡机制，帮助你建立更有节奏的生活与学习节奏，告别拖延，和同频的人一起成长。
 后端基于 **Java + Spring Boot** 构建，稳定可靠
 支持 **WebSocket 实时消息推送**，让打卡反馈更及时
@@ -23,6 +28,24 @@ Maven 3.6+
 MySQL 5.7+（如需数据库支持）
 本地运行
 bash
+
+Technology Stack
+Layer	Technologies
+Backend	Java, Spring Boot, Maven
+Real-time Communication	WebSocket
+Database	MySQL (extensible)
+Development Tools	VS Code, IntelliJ IDEA
+Quick Start
+Clone the project
+bash
+git clone https://github.com/ZINC0113/SeifPace.git
+Environment Preparation
+JDK 1.8+
+Maven 3.6+
+MySQL 5.7+ (if database support is required)
+Local Run
+bash
+
 # 进入后端项目目录
 cd SeifPace/tontin-server
 安装依赖
@@ -53,32 +76,6 @@ GitHub: [ZINC0113](https://github.com/ZINC0113)
 分享你的使用体验和优化思路
 你的每一个建议，都是我前进的动力！
 
-
-SeifPace
-Sync Check-in: Make Time Management More Rhythmic
-Project Introduction
-SeifPace (Sync Check-in) is a full-stack project for personal time management and habit formation. It aims to help you establish a more rhythmic life and study routine through check-in mechanisms, overcome procrastination, and grow together with like-minded people.
-Backend built with Java + Spring Boot for stability and reliability
-Supports WebSocket real-time message push for timely check-in feedback
-Uses Maven for dependency management, facilitating scalability and maintenance
-Development environment: Mainly VS Code, supplemented by trea
-Note: This project is still under iteration and has some areas for optimization. Contributions, suggestions, and improvement directions from all experts are welcome—I will strive to refine it continuously.
-Technology Stack
-Layer	Technologies
-Backend	Java, Spring Boot, Maven
-Real-time Communication	WebSocket
-Database	MySQL (extensible)
-Development Tools	VS Code, IntelliJ IDEA
-Quick Start
-Clone the project
-bash
-git clone https://github.com/ZINC0113/SeifPace.git
-Environment Preparation
-JDK 1.8+
-Maven 3.6+
-MySQL 5.7+ (if database support is required)
-Local Run
-bash
 # Navigate to the backend project directory
 cd SeifPace/tontin-server
 # Install dependencies
