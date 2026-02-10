@@ -5,7 +5,7 @@ SeifPace（同频打卡）是一个面向个人时间管理与习惯养成的全
 后端基于 **Java + Spring Boot** 构建，稳定可靠
 支持 **WebSocket 实时消息推送**，让打卡反馈更及时
 采用 **Maven** 进行依赖管理，便于扩展和维护
-开发环境：主要使用 VS Code，辅以 IntelliJ IDEA
+开发环境：主要使用 VS Code，辅以trea
  注：本项目仍在迭代中，存在部分待优化的问题，欢迎各位大佬提出建议与改进方向，我会尽力完善。
 # 技术栈
 | 层级 | 技术 |
@@ -60,7 +60,7 @@ SeifPace (Sync Check-in) is a full-stack project for personal time management an
 Backend built with Java + Spring Boot for stability and reliability
 Supports WebSocket real-time message push for timely check-in feedback
 Uses Maven for dependency management, facilitating scalability and maintenance
-Development environment: Mainly VS Code, supplemented by IntelliJ IDEA
+Development environment: Mainly VS Code, supplemented by trea
 Note: This project is still under iteration and has some areas for optimization. Contributions, suggestions, and improvement directions from all experts are welcome—I will strive to refine it continuously.
 Technology Stack
 Layer	Technologies
