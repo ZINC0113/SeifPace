@@ -1,5 +1,8 @@
 SeifPace 
+Sync&Check in —Make time management rhythmic
+This is a practice project in Java, which is still being improved.Any code issues, logical flaws, or optimization suggestions from senior developers are highly appreciated! Thank you very much!
 同频打卡，让时间管理更有节奏
+这是我在Java方向的练手项目，目前仍在完善中。欢迎各位指出代码问题、逻辑漏洞或优化建议，非常感谢！
 # 项目简介
 SeifPace (Rhythmic Check-in) is a full-stack project for personal time management and habit formation. Designed to help you build a more rhythmic life and learning routine through a check-in mechanism, it helps you bid farewell to procrastination and grow alongside like-minded peers.
 The backend is built on Java + Spring Boot, ensuring stability and reliability.
